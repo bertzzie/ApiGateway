@@ -1,6 +1,5 @@
 module Github
 
-open Http
 open Rails
 open FSharp.Data
 

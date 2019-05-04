@@ -4,9 +4,7 @@ open FSharp.Control.Reactive
 open System.Reactive.Threading.Tasks
 
 open Http
-open Rails
 open Github
-open ObservableExtensions
 
 let getProfile userName = async {
     
